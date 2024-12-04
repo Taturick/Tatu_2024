@@ -1,0 +1,4 @@
+binance
+requests
+python-dotenv
+pandas
